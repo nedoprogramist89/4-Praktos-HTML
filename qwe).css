@@ -1,0 +1,178 @@
+
+#main {
+     position: absolute;
+     width: 1898px;
+     height: 970px;
+     left: -38px;
+     top: -55px;
+
+     background: linear-gradient(150.71deg, #02012F 17.97%, rgba(0, 0, 0, 0.8) 79.82%);
+ }
+
+#text2 {
+    position: absolute;
+    width: 350px;
+    height: 44px;
+    left: 150px;
+    top: 580px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+
+
+    color: #0B9CDB;
+}
+
+#text1 {
+    position: absolute;
+    width: 700px;
+    height: 231px;
+    left: 152px;
+    top: 360px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #FFFFFF;
+}
+
+#knopka {
+    position: absolute;
+    width: 299px;
+    height: 70px;
+    left: 10px;
+    top: 100px;
+}
+
+#knopka1 {
+    position: absolute;
+    width: 70px;
+    height: 220px;
+    left: 200px;
+    top: 600px;
+}
+
+#krug {
+
+    width: 200px;
+    height: 75px;
+    left: 10px;
+    top: 10px;
+
+    background: #0F92F0;
+    border-radius: 75px;
+}
+
+#textknopka {
+    position: absolute;
+    width: 136px;
+    height: 24px;
+    left: 25px;
+    top: 25px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 24px;
+
+    color: #FFFCFC;
+}
+
+#ikon {
+    position: absolute;
+    width: 129px;
+    height: 182.89px;
+    left: 100.89px;
+    top: 100px;
+}
+
+#text3 {
+    position: absolute;
+    width: 182.89px;
+    height: 29.39px;
+    left: 127px;
+    top: 150.61px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+#ikon2 {
+    position: absolute;
+    width: 169.82px;
+    height: 99.61px;
+    left: 131.9px;
+    top: 51px;
+}
+
+#ikon3 {
+    position: absolute;
+    left: 0%;
+    right: -18.11%;
+    top: 0.38%;
+    bottom: -133.12%;
+}
+
+#ikontext {
+    position: absolute;
+    left: 0%;
+    right: -18.11%;
+    top: 0.38%;
+    bottom: -133.12%;
+}
+
+#ikonlast {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0.38%;
+    bottom: -0.1%;
+}
+
+#ikontext2 {
+position: absolute;
+left: 39.37%;
+right: -18.11%;
+top: 99.16%;
+bottom: 100.12%;
+
+font-family: 'Trebuchet MS';
+font-style: normal;
+font-weight: 700;
+font-size: 7.47032px;
+line-height: 9px;
+
+color: #373435;
+}
+
+#image1 {
+    position: absolute;
+    width: 1000px;
+    height: 552px;
+    left: 900px;
+    top: 10px;
+
+    border-radius: 29px;
+}
+
+#image2 {
+    position: absolute;
+    width: 1000px;
+    height: 328px;
+    left: 900px;
+    top: 500px;
+
+    border-radius: 54px;
+}
